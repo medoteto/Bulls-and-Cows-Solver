@@ -1,5 +1,5 @@
-var CONFIG_POOL = new Set([1,2,3,4,5,6,7,8,9]);
-var CONFIG_NUM_DIGIT = 3;
+var CONFIG_POOL = new Set([0,1,2,3,4,5,6,7,8,9]);
+var CONFIG_NUM_DIGIT = 4;
 
 function is_allowed_number(number)
 {
